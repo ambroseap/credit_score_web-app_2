@@ -1,1 +1,1 @@
-# cred1
+# loan_prediction machine learning project
